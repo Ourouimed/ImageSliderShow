@@ -5,7 +5,6 @@ This is simple Image SliderShow using HTML , css , js
 1- clone the repositoriy (or download it directly)
 ```bash
 git clone https://github.com/Ourouimed/ImageSliderShow.git
-cd ImageSliderShow
 ```
 2 - Open index.html file
 
